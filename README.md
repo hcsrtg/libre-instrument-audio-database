@@ -10,6 +10,7 @@ Accepted licenses:
 
 # General MIDI 1
 Current number of confirmed instruments with audio library: 71 / 128
+
 Current number of confirmed missing instruments: 10 / 128
 
 ### Piano
